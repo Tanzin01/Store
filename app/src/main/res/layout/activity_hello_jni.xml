@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+     xmlns:android="http://schemas.android.com/apk/res/android"
+     android:layout_height="match_parent"
+     android:layout_width="match_parent">
+
+    <EditText
+         android:layout_height="wrap_content"
+         android:layout_width="match_parent"
+         android:hint="Enter Key"
+         android:layout_margin="16dp"
+         android:id="@+id/uiKeyEdit" />
+
+    <EditText
+         android:layout_height="wrap_content"
+         android:layout_width="match_parent"
+         android:layout_below="@id/uiKeyEdit"
+         android:hint="Enter Value"
+         android:layout_margin="16dp"
+         android:id="@+id/uiValueEdit" />
+
+    <Spinner
+         android:layout_height="wrap_content"
+         android:layout_width="match_parent"
+         android:layout_below="@id/uiValueEdit"
+         android:layout_margin="16dp"
+         android:id="@+id/uiTypeSpinner">
+
+    </Spinner>
+
+    <Button
+         android:layout_height="wrap_content"
+         android:layout_width="wrap_content"
+         android:layout_below="@id/uiTypeSpinner"
+         android:layout_margin="16dp"
+         android:layout_alignParentStart="true"
+         android:id="@+id/uiSaveButton"
+         android:text="Save" />
+
+    <Button
+         android:layout_height="wrap_content"
+         android:layout_width="wrap_content"
+         android:layout_below="@id/uiTypeSpinner"
+         android:layout_margin="16dp"
+         android:layout_alignParentEnd="true"
+         android:id="@+id/uiRetrieveButton"
+         android:text="Retrieve" />
+
+</RelativeLayout>

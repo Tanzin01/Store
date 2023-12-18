@@ -1,0 +1,25 @@
+# ninja log v5
+13	374	1701898386981502705	CMakeFiles/store.dir/hello-jni.c.o	4f35efacfb30b027
+406	660	1701898387297502705	/storage/emulated/0/AndroidIDEProjects/Store/app/build/intermediates/cxx/Debug/6c4fg6z1/obj/armeabi-v7a/libstore.so	77216268a69d1e42
+63	738	1701900201945501407	CMakeFiles/store.dir/hello-jni.c.o	4f35efacfb30b027
+756	1210	1701900202601501407	/storage/emulated/0/AndroidIDEProjects/Store/app/build/intermediates/cxx/Debug/6c4fg6z1/obj/armeabi-v7a/libstore.so	77216268a69d1e42
+33	538	1701900518809501181	CMakeFiles/store.dir/hello-jni.c.o	4f35efacfb30b027
+552	954	1701900519285501180	/storage/emulated/0/AndroidIDEProjects/Store/app/build/intermediates/cxx/Debug/6c4fg6z1/obj/armeabi-v7a/libstore.so	77216268a69d1e42
+127	1236	1701975214169474427	CMakeFiles/store.dir/hello-jni.c.o	4f35efacfb30b027
+1247	1709	1701975214733474426	/storage/emulated/0/AndroidIDEProjects/Store/app/build/intermediates/cxx/Debug/6c4fg6z1/obj/armeabi-v7a/libstore.so	77216268a69d1e42
+58	718	1702273160369560501	CMakeFiles/store.dir/hello-jni.c.o	4f35efacfb30b027
+743	1316	1702273161013560501	/storage/emulated/0/AndroidIDEProjects/Store/app/build/intermediates/cxx/Debug/6c4fg6z1/obj/armeabi-v7a/libstore.so	77216268a69d1e42
+24	421	1702298937321506210	CMakeFiles/store.dir/hello-jni.c.o	4f35efacfb30b027
+428	784	1702298937733506210	/storage/emulated/0/AndroidIDEProjects/Store/app/build/intermediates/cxx/Debug/6c4fg6z1/obj/armeabi-v7a/libstore.so	77216268a69d1e42
+91	507	1702299096121506097	CMakeFiles/store.dir/hello-jni.c.o	4f35efacfb30b027
+524	900	1702299096561506096	/storage/emulated/0/AndroidIDEProjects/Store/app/build/intermediates/cxx/Debug/6c4fg6z1/obj/armeabi-v7a/libstore.so	77216268a69d1e42
+106	737	1702300279313548663	CMakeFiles/store.dir/hello-jni.c.o	4f35efacfb30b027
+743	1267	1702300280017548663	/storage/emulated/0/AndroidIDEProjects/Store/app/build/intermediates/cxx/Debug/6c4fg6z1/obj/armeabi-v7a/libstore.so	77216268a69d1e42
+32	449	1702300570577541268	CMakeFiles/store.dir/hello-jni.c.o	4f35efacfb30b027
+456	842	1702300570997541267	/storage/emulated/0/AndroidIDEProjects/Store/app/build/intermediates/cxx/Debug/6c4fg6z1/obj/armeabi-v7a/libstore.so	77216268a69d1e42
+29	489	1702300596841541249	CMakeFiles/store.dir/hello-jni.c.o	4f35efacfb30b027
+501	988	1702300597365541249	/storage/emulated/0/AndroidIDEProjects/Store/app/build/intermediates/cxx/Debug/6c4fg6z1/obj/armeabi-v7a/libstore.so	77216268a69d1e42
+29	414	1702300642853541216	CMakeFiles/store.dir/hello-jni.c.o	4f35efacfb30b027
+425	772	1702300643229541216	/storage/emulated/0/AndroidIDEProjects/Store/app/build/intermediates/cxx/Debug/6c4fg6z1/obj/armeabi-v7a/libstore.so	77216268a69d1e42
+50	885	1702388573097581735	CMakeFiles/store.dir/hello-jni.c.o	4f35efacfb30b027
+898	1199	1702388573465581734	/storage/emulated/0/AndroidIDEProjects/Store/app/build/intermediates/cxx/Debug/6c4fg6z1/obj/armeabi-v7a/libstore.so	77216268a69d1e42

@@ -1,0 +1,25 @@
+# ninja log v5
+16	587	1701898380557502710	CMakeFiles/store.dir/hello-jni.c.o	9e449fe7b58d8702
+635	1305	1701898381305502709	/storage/emulated/0/AndroidIDEProjects/Store/app/build/intermediates/cxx/Debug/6c4fg6z1/obj/arm64-v8a/libstore.so	eb275a066edc5b96
+75	1309	1701900200329501408	CMakeFiles/store.dir/hello-jni.c.o	9e449fe7b58d8702
+1315	1984	1701900201073501408	/storage/emulated/0/AndroidIDEProjects/Store/app/build/intermediates/cxx/Debug/6c4fg6z1/obj/arm64-v8a/libstore.so	eb275a066edc5b96
+123	1770	1701900516613501182	CMakeFiles/store.dir/hello-jni.c.o	9e449fe7b58d8702
+1825	2877	1701900517825501181	/storage/emulated/0/AndroidIDEProjects/Store/app/build/intermediates/cxx/Debug/6c4fg6z1/obj/arm64-v8a/libstore.so	eb275a066edc5b96
+171	1790	1701975210453474429	CMakeFiles/store.dir/hello-jni.c.o	9e449fe7b58d8702
+1806	2821	1701975211529474429	/storage/emulated/0/AndroidIDEProjects/Store/app/build/intermediates/cxx/Debug/6c4fg6z1/obj/arm64-v8a/libstore.so	eb275a066edc5b96
+127	1381	1702273158093560503	CMakeFiles/store.dir/hello-jni.c.o	9e449fe7b58d8702
+1390	2083	1702273158857560502	/storage/emulated/0/AndroidIDEProjects/Store/app/build/intermediates/cxx/Debug/6c4fg6z1/obj/arm64-v8a/libstore.so	eb275a066edc5b96
+95	1265	1702298935341506212	CMakeFiles/store.dir/hello-jni.c.o	9e449fe7b58d8702
+1275	2097	1702298936245506211	/storage/emulated/0/AndroidIDEProjects/Store/app/build/intermediates/cxx/Debug/6c4fg6z1/obj/arm64-v8a/libstore.so	eb275a066edc5b96
+107	1713	1702299093921506098	CMakeFiles/store.dir/hello-jni.c.o	9e449fe7b58d8702
+1731	2894	1702299095233506097	/storage/emulated/0/AndroidIDEProjects/Store/app/build/intermediates/cxx/Debug/6c4fg6z1/obj/arm64-v8a/libstore.so	eb275a066edc5b96
+158	2537	1702300276781548665	CMakeFiles/store.dir/hello-jni.c.o	9e449fe7b58d8702
+2549	3626	1702300277949548664	/storage/emulated/0/AndroidIDEProjects/Store/app/build/intermediates/cxx/Debug/6c4fg6z1/obj/arm64-v8a/libstore.so	eb275a066edc5b96
+130	1415	1702300568497541269	CMakeFiles/store.dir/hello-jni.c.o	9e449fe7b58d8702
+1421	2339	1702300569417541268	/storage/emulated/0/AndroidIDEProjects/Store/app/build/intermediates/cxx/Debug/6c4fg6z1/obj/arm64-v8a/libstore.so	eb275a066edc5b96
+158	1567	1702300594761541250	CMakeFiles/store.dir/hello-jni.c.o	9e449fe7b58d8702
+1592	2520	1702300595813541250	/storage/emulated/0/AndroidIDEProjects/Store/app/build/intermediates/cxx/Debug/6c4fg6z1/obj/arm64-v8a/libstore.so	eb275a066edc5b96
+97	1212	1702300641225541217	CMakeFiles/store.dir/hello-jni.c.o	9e449fe7b58d8702
+1219	1959	1702300642005541217	/storage/emulated/0/AndroidIDEProjects/Store/app/build/intermediates/cxx/Debug/6c4fg6z1/obj/arm64-v8a/libstore.so	eb275a066edc5b96
+85	1310	1702388570917581736	CMakeFiles/store.dir/hello-jni.c.o	9e449fe7b58d8702
+1317	1956	1702388571609581736	/storage/emulated/0/AndroidIDEProjects/Store/app/build/intermediates/cxx/Debug/6c4fg6z1/obj/arm64-v8a/libstore.so	eb275a066edc5b96
